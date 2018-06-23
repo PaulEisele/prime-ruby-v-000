@@ -1,4 +1,4 @@
-def Prime?(number)
+def prime?(number)
   if number<=0 || number==0
     return false
   else
